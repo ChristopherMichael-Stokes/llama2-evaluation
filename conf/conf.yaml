@@ -1,0 +1,4 @@
+types: ['int4', 'int8']
+output_path: './outputs'
+tests: ['04_hellaswag', '05_squad', '06_glue']
+max_samples: -1
